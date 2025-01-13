@@ -1,1 +1,5 @@
-# Game_of_Life-Alexis_Denneulin-DIA3
+# Game of life
+
+Simple implementation of "Game of Life" a game by Conway
+
+
