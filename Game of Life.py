@@ -8,7 +8,7 @@ LIVE_CELL_COLOR = "black"
 DEAD_CELL_COLOR = "white"
 SLEEP_TIME = 100  # Milliseconds between generations
 
-def get_neighbors(board, x, y):
+def get_neighbors(board, x=0, y=0):
     """
     Counts the number of live neighbors around a given cell.
     """
